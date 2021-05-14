@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tic_tac_toe_home_work_2</string>
+    <string name="textTitle">TIC TAC TOE</string>
+    <string name="playwithfriends">play With Friends</string>
+    <string name="playwithai">play With Ai</string>
+    <string name="reset">Reset</string>
+    <string name="player1_0">player1:0</string>
+    <string name="score">score</string>
+    <string name="player2_0">player2:0</string>
+</resources>
